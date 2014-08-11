@@ -1,0 +1,21 @@
+{
+  "name": "extjs-log4js-bowerpackage",
+  "version": "2.0.0",
+  "homepage": "https://github.com/morankenn/extjs-log4js-bowerpackage",
+  "authors": [
+    "morankenn <morankenn@gmail.com>"
+  ],
+  "description": "extjs-log4js bower package",
+  "keywords": [
+    "extjs",
+    "log4js"
+  ],
+  "license": "LGPLv3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
